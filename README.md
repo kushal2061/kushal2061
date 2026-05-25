@@ -29,7 +29,7 @@
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,python,,mysql" />
+<img src="https://skillicons.dev/icons?i=django,python,mysql" />
 </p>
 
 ## Tools & Technologies
