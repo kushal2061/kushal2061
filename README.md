@@ -135,15 +135,6 @@ while(!success){
 ```
 
 
-
-# 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kushal2061&label=Profile%20views&color=0e75b6&style=flat" alt="kushal2061" />
-</p>
-
----
-
 # 💻 Quote
 
 <p align="center">
