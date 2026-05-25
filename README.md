@@ -11,29 +11,12 @@
 
 💻 Full-stack web developer specializing in **React.js** and **Django**  
 🚀 Passionate about building scalable, secure, and modern web applications  
-📚 BIM Student at Morgan International College  
 🌱 Currently learning advanced backend development and MERN stack  
 ⚡ Focused on APIs, authentication systems, and responsive UI design  
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/kushal2061" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/kushal-kandel" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
-
-📧 **Email:** kushalkandel25@gmail.com  
-
-🌍 **Portfolio:** kushalkandel.com.np  
-
----
 
 # 🚀 Tech Stack
 
@@ -65,13 +48,6 @@
 <img src="https://streak-stats.demolab.com?user=kushal2061&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal2061&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
