@@ -1,16 +1,191 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kushal Kandel</h1>
+<h3 align="center">Full-Stack Web Developer | React.js & Django Developer</h3>
 
-<!--
-**kushal2061/kushal2061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React.js+Developer;Django+Backend+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me
+
+💻 Full-stack web developer specializing in **React.js** and **Django**  
+🚀 Passionate about building scalable, secure, and modern web applications  
+📚 BIM Student at Morgan International College  
+🌱 Currently learning advanced backend development and MERN stack  
+⚡ Focused on APIs, authentication systems, and responsive UI design  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/kushal2061" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/kushal-kandel" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+📧 **Email:** kushalkandel25@gmail.com  
+
+🌍 **Portfolio:** kushalkandel.com.np  
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,python,nodejs,express,mysql" />
+</p>
+
+## Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushal2061&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal2061&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kushal2061&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal2061&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🛠 Featured Projects
+
+## 🎬 Movie App
+
+Modern movie browsing application built using React.js and external movie APIs.
+
+### Features
+- Real-time movie search
+- Trending & popular movies
+- API integration
+- Favorite movie functionality
+
+### Tech Used
+`React.js` `REST API` `JavaScript`
+
+🔗 Live Demo:  
+https://project-h47hd.vercel.app/
+
+---
+
+## 🐦 Tweet App
+
+Full-stack social media web application built with Django.
+
+### Features
+- User authentication system
+- Image uploads
+- User profiles
+- CRUD operations
+- Secure password hashing
+
+### Tech Used
+`Django` `Python` `MySQL` `JavaScript`
+
+---
+
+## 📚 Knowledge Manager Web App
+
+Secure personal data management system with role-based authentication.
+
+### Features
+- Secure authentication
+- Access control system
+- Database management
+- CRUD functionalities
+
+### Tech Used
+`Django` `MySQL` `Authentication`
+
+---
+
+## 🎮 Tic-Tac-Toe Game
+
+Interactive browser-based game built using JavaScript.
+
+### Features
+- Win/draw detection
+- Dynamic UI updates
+- Restart functionality
+- Responsive design
+
+### Tech Used
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 🎯 Current Goals
+
+✅ Build production-level MERN applications  
+✅ Improve backend architecture knowledge  
+✅ Learn scalable API development  
+✅ Deploy full-stack applications professionally  
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while(!success){
+    keepLearning();
+}
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kushal2061/kushal2061/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kushal2061&label=Profile%20views&color=0e75b6&style=flat" alt="kushal2061" />
+</p>
+
+---
+
+# 💻 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
