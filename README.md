@@ -57,15 +57,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushal2061&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal2061&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -166,15 +158,7 @@ while(!success){
 }
 ```
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kushal2061/kushal2061/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 👀 Profile Views
 
