@@ -46,7 +46,7 @@
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,python,nodejs,express,mysql" />
+<img src="https://skillicons.dev/icons?i=django,python,,mysql" />
 </p>
 
 ## Tools & Technologies
@@ -151,7 +151,7 @@ Interactive browser-based game built using JavaScript.
 
 # 🎯 Current Goals
 
-✅ Build production-level MERN applications  
+✅ Build production-level Full Stack applications  
 ✅ Improve backend architecture knowledge  
 ✅ Learn scalable API development  
 ✅ Deploy full-stack applications professionally  
