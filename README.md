@@ -11,7 +11,7 @@
 
 💻 Full-stack web developer specializing in **React.js** and **Django**  
 🚀 Passionate about building scalable, secure, and modern web applications  
-🌱 Currently learning advanced backend development and MERN stack  
+🌱 Currently learning advanced backend development  
 ⚡ Focused on APIs, authentication systems, and responsive UI design  
 
 ---
