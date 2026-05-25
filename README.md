@@ -102,20 +102,6 @@ Secure personal data management system with role-based authentication.
 
 ---
 
-## 🎮 Tic-Tac-Toe Game
-
-Interactive browser-based game built using JavaScript.
-
-### Features
-- Win/draw detection
-- Dynamic UI updates
-- Restart functionality
-- Responsive design
-
-### Tech Used
-`HTML` `CSS` `JavaScript`
-
----
 
 # 🎯 Current Goals
 
