@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-🎓 Final-year Bachelor of Information Management (BIM) student
+🎓  Bachelor of Information Management (BIM) student
 
 🧪 QA-focused developer with hands-on experience in **Manual Testing, API Testing, Postman, Test Case Design, and Bug Reporting**
 
@@ -70,6 +70,7 @@ https://github.com/kushal2061/OrangeHRM_Manual_Testing
 
 Manual API testing project for a Django REST Framework Blog API.
 
+* 130+ manual test cases
 * Tested Authentication, Categories, Posts and Comments
 * Designed and executed API test cases using Postman
 * Tested CRUD operations, validation, authentication and authorization
@@ -157,13 +158,3 @@ https://github.com/kushal2061/movieApp
 * Building production-ready applications
 
 ---
-
-# 📫 Connect With Me
-
-📧 Email: [kushalkandel25@gmail.com](mailto:kushalkandel25@gmail.com)
-
-💼 LinkedIn:
-https://linkedin.com/in/kushal-kandel
-
-🐙 GitHub:
-https://github.com/kushal2061
