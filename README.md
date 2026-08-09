@@ -1,24 +1,44 @@
 <h1 align="center">Hi 👋, I'm Kushal Kandel</h1>
-<h3 align="center">Full-Stack Web Developer | React.js & Django Developer</h3>
+<h3 align="center">QA Engineer | Backend Developer | Django & REST APIs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React.js+Developer;Django+Backend+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <a href="https://github.com/kushal2061">GitHub</a> •
+  <a href="https://linkedin.com/in/kushal-kandel">LinkedIn</a>
 </p>
 
 ---
 
 # 💫 About Me
 
-💻 Full-stack web developer specializing in **React.js** and **Django**  
-🚀 Passionate about building scalable, secure, and modern web applications  
-🌱 Currently learning advanced backend development  
-⚡ Focused on APIs, authentication systems, and responsive UI design  
+🎓 Final-year Bachelor of Information Management (BIM) student
+
+🧪 QA-focused developer with hands-on experience in **Manual Testing, API Testing, Postman, Test Case Design, and Bug Reporting**
+
+💻 Backend development experience with **Python, Django, Django REST Framework, REST APIs, JWT Authentication, and MySQL**
+
+🔍 Interested in understanding how applications work internally and testing them beyond the UI
+
+🌱 Currently building my skills in **QA Automation and backend development**
 
 ---
 
+# 🛠 Tech Stack
 
+## QA & Testing
 
-# 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=postman,git,github" />
+</p>
+
+`Manual Testing` `API Testing` `Test Case Design` `Bug Reporting` `Regression Testing`
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,mysql" />
+</p>
+
+`Django` `Django REST Framework` `REST APIs` `JWT Authentication` `MySQL` `SQLite`
 
 ## Frontend
 
@@ -26,103 +46,124 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,python,mysql" />
-</p>
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+`React.js` `JavaScript` `HTML5` `CSS3`
 
 ---
 
+# 🚀 QA Projects
 
+## 🧪 OrangeHRM Manual Testing
 
-# 🔥 GitHub Streak
+Manual testing project covering major OrangeHRM modules.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kushal2061&theme=tokyonight&hide_border=true"/>
-</p>
+* 60+ manual test cases
+* Test Plan and RTM
+* Functional, Smoke, Regression, UI & Negative Testing
+* Bug reporting with severity, priority and screenshots
 
+🔗 Repository:
+https://github.com/kushal2061/OrangeHRM_Manual_Testing
 
 ---
 
-# 🛠 Featured Projects
+## 🔌 Blog REST API — Manual API Testing
 
-## 🎬 Movie App
+Manual API testing project for a Django REST Framework Blog API.
 
-Modern movie browsing application built using React.js and external movie APIs.
+* Tested Authentication, Categories, Posts and Comments
+* Designed and executed API test cases using Postman
+* Tested CRUD operations, validation, authentication and authorization
+* Tested pagination, filtering and negative scenarios
+* Documented test execution results in Excel
 
-### Features
-- Real-time movie search
-- Trending & popular movies
-- API integration
-- Favorite movie functionality
+🔗 API:
+https://blogapi-vby2.onrender.com/api
 
-### Tech Used
-`React.js` `REST API` `JavaScript`
+🔗 Repository:
+https://github.com/kushal2061/Blog_API_Testing
 
-🔗 Live Demo:  
-https://project-h47hd.vercel.app/
+---
+
+# 💻 Backend Projects
+
+## 📝 Blog REST API
+
+RESTful backend built using Django REST Framework.
+
+* JWT authentication
+* CRUD operations
+* Filtering, searching and pagination
+* Relational database design
+* Query optimization
+
+🔗 Repository:
+https://github.com/kushal2061/BlogAPI
 
 ---
 
 ## 🐦 Tweet App
 
-Full-stack social media web application built with Django.
+Full-stack social media application built with Django.
 
-### Features
-- User authentication system
-- Image uploads
-- User profiles
-- CRUD operations
-- Secure password hashing
+* User authentication
+* Image uploads
+* CRUD operations
+* User profiles
+* MySQL database
 
-### Tech Used
-`Django` `Python` `MySQL` `JavaScript`
-
----
-
-## 📚 Knowledge Manager Web App
-
-Secure personal data management system with role-based authentication.
-
-### Features
-- Secure authentication
-- Access control system
-- Database management
-- CRUD functionalities
-
-### Tech Used
-`Django` `MySQL` `Authentication`
+🔗 Repository:
+https://github.com/kushal2061/hamro_tweet
 
 ---
 
+## 📚 Knowledge Manager
 
-# 🎯 Current Goals
+Django-based application for managing personal information with role-based access control.
 
-✅ Build production-level Full Stack applications  
-✅ Improve backend architecture knowledge  
-✅ Learn scalable API development  
-✅ Deploy full-stack applications professionally  
+* Authentication and authorization
+* Role-based permissions
+* CRUD operations
+* MySQL database
+
+🔗 Repository:
+https://github.com/kushal2061/Knowlege_manager-webapp
 
 ---
 
-# ⚡ Fun Fact
+## 🎬 Movie Discovery App
 
-```javascript
-while(!success){
-    keepLearning();
-}
-```
+React application using a third-party movie API.
 
+* Movie search
+* Trending and popular movies
+* API integration
+* Favorite functionality
+* Local storage
 
-# 💻 Quote
+🔗 Live Demo:
+https://project-h47hd.vercel.app/
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+🔗 Repository:
+https://github.com/kushal2061/movieApp
+
+---
+
+# 🎯 Current Focus
+
+* Manual & API Testing
+* QA Automation
+* Django & REST API Development
+* SQL & Database Testing
+* Building production-ready applications
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [kushalkandel25@gmail.com](mailto:kushalkandel25@gmail.com)
+
+💼 LinkedIn:
+https://linkedin.com/in/kushal-kandel
+
+🐙 GitHub:
+https://github.com/kushal2061
